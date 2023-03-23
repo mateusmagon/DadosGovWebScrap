@@ -4,7 +4,7 @@
 # Python 3.7.4
 # Extrai informações dos dados abertos do Ministério da Saúde catalogados no site dados.gov.br
 
-# importa o framework Scrapy
+# importa o framework Scrapy 1.8.0
 import scrapy
 
 #lista vazia que será utilizada para limpeza do campo de títulos mais à frente
